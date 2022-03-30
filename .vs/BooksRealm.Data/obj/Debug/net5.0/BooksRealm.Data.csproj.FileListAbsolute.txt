@@ -1,0 +1,15 @@
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.AssemblyInfoInputs.cache
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.AssemblyInfo.cs
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.csproj.CoreCompileInputs.cache
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\BooksRealm.Data.deps.json
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\BooksRealm.Data.runtimeconfig.json
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\BooksRealm.Data.runtimeconfig.dev.json
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\BooksRealm.Data.dll
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\ref\BooksRealm.Data.dll
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\bin\Debug\net5.0\BooksRealm.Data.pdb
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.csproj.AssemblyReference.cache
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.dll
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\ref\BooksRealm.Data.dll
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.pdb
+C:\Users\Nadezhda\source\repos\BooksRealm\BooksRealm.Data\obj\Debug\net5.0\BooksRealm.Data.genruntimeconfig.cache
